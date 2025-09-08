@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /_next/static/
+Allow: /
+
+Sitemap: https://readmebuddy.com/sitemap.xml
